@@ -7,5 +7,15 @@
 /*-----------------------------------*/
 /*----- ADD YOUR STYLES BELOW -------*/
 
+// font size for non-heading text
+.post-content p, .post-content li {
+    font-size: 15px;
+}
+
+// inline code chunks font size
+.post-content tt, .post-content code {
+	font-size: 15px;
+}
+
 // If you want to turn off dark background for syntax highlighting, comment or delete the below line.
 @import "minima/fastpages-dracula-highlight"; 

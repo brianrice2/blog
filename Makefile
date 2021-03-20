@@ -37,11 +37,11 @@ stop: .FORCE
 remove: .FORCE
 	docker-compose stop  || true; docker-compose rm || true;
 
-# get shell inside the notebook converter service (Must already be running)
+# get shell inside the notebook converter service (must already be running)
 bash-nb: .FORCE
 	docker-compose exec watcher /bin/bash
 
-# get shell inside jekyll service (Must already be running)
+# get shell inside jekyll service (must already be running)
 bash-jekyll: .FORCE
 	docker-compose exec jekyll /bin/bash
 
