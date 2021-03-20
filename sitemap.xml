@@ -1,12 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://brianrice2.github.io/blog/markdown/2020/01/14/test-markdown-post.html</loc>
-<lastmod>2020-01-14T00:00:00-06:00</lastmod>
+<loc>https://brianrice2.github.io/blog/resources/2019/12/01/resources.html</loc>
+<lastmod>2019-12-01T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>https://brianrice2.github.io/blog/jupyter/2020/02/20/test.html</loc>
-<lastmod>2020-02-20T00:00:00-06:00</lastmod>
+<loc>https://brianrice2.github.io/blog/bookshelf/2020/01/01/bookshelf.html</loc>
+<lastmod>2020-01-01T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>https://brianrice2.github.io/blog/healthcare/2020/05/01/ai-in-healthcare.html</loc>
+<lastmod>2020-05-01T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>https://brianrice2.github.io/blog/pomdps/2020/07/01/pomdps.html</loc>
+<lastmod>2020-07-01T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>https://brianrice2.github.io/blog/msia/alumni/northwestern/career/2020/10/01/msia-alumni-placements.html</loc>
+<lastmod>2020-10-01T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>https://brianrice2.github.io/blog/bookshelf/2021/01/01/bookshelf.html</loc>
+<lastmod>2021-01-01T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>https://brianrice2.github.io/blog/career/reviewers/2021/02/14/working-with-reviewers.html</loc>
+<lastmod>2021-02-14T00:00:00-06:00</lastmod>
 </url>
 <url>
 <loc>https://brianrice2.github.io/blog/about/</loc>
