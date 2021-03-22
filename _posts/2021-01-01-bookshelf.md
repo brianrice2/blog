@@ -30,3 +30,7 @@ title: 2021 Bookshelf
 
 - [When may we be happy?](https://www.econlib.org/when-may-we-be-happy/)
 - [Paul Graham - Essays](http://paulgraham.com/articles.html)
+
+# MLOps Community Reading Group
+
+- [Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml)
