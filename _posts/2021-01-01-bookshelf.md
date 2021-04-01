@@ -21,6 +21,8 @@ title: 2021 Bookshelf
 ## Personal Development
 
 - How to Win Friends and Influence People by Dale Carnegie
+- So Good They Can't Ignore You by Cal Newport
+    - Really enjoyed the craftsman mindset. "Don't obsess over discovering your true calling. Instead, master rare and valuable skills."
 
 ## Podcasts
 
@@ -34,3 +36,4 @@ title: 2021 Bookshelf
 ## MLOps Community Reading Group
 
 - [Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml)
+- [150 Successful Machine Learning Models: 6 Lessons Learned at Booking.com](https://dl.acm.org/doi/10.1145/3292500.3330744)
