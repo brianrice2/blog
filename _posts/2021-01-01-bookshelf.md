@@ -12,6 +12,7 @@ title: 2021 Bookshelf
 
 - Designing Data-Intensive Applications by Martin Kleppmann
 - The Elements of Statistical Learning by Jerome Friedman, Robert Tibshirani, and Trevor Hastie
+- Web Scalability for Startup Engineers by Artur Ejsmont
 
 ## Nonfiction
 
