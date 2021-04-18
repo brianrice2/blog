@@ -22,7 +22,8 @@ title: 2021 Bookshelf
 
 - How to Win Friends and Influence People by Dale Carnegie
 - So Good They Can't Ignore You by Cal Newport
-    - Really enjoyed the craftsman mindset. "Don't obsess over discovering your true calling. Instead, master rare and valuable skills."
+    - Really enjoyed the craftsman mindset idea. "Don't obsess over discovering your true calling. Instead, master rare and valuable skills."
+- Deep Work by Cal Newport
 
 ## Podcasts
 
