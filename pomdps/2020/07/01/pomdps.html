@@ -208,6 +208,8 @@ window.onload = wrap_img;
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-r"><pre><span></span><span class="nf">library</span><span class="p">(</span><span class="n">tidyverse</span><span class="p">)</span>
+<span class="nf">library</span><span class="p">(</span><span class="n">pomdp</span><span class="p">)</span>
+
 <span class="nf">theme_set</span><span class="p">(</span><span class="nf">theme_minimal</span><span class="p">())</span>
 </pre></div>
 
@@ -336,14 +338,40 @@ Registered S3 method overwritten by 'rvest':
 
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-r"><pre><span></span><span class="nf">library</span><span class="p">(</span><span class="n">pomdp</span><span class="p">)</span>
-<span class="nf">data</span><span class="p">(</span><span class="s">"Tiger"</span><span class="p">)</span>
+<div class=" highlight hl-r"><pre><span></span><span class="nf">data</span><span class="p">(</span><span class="s">"Tiger"</span><span class="p">)</span>
 <span class="n">sol</span> <span class="o">&lt;-</span> <span class="nf">solve_POMDP</span><span class="p">(</span><span class="n">Tiger</span><span class="p">)</span>
 <span class="n">sol</span>
 <span class="n">sol</span><span class="o">$</span><span class="n">solution</span>
 </pre></div>
 
     </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+<div class="output_area">
+
+<div class="output_subarea output_stream output_stderr output_text">
+<pre>Warning message in data("Tiger"):
+“data set ‘Tiger’ not found”
+</pre>
+</div>
+</div>
+
+<div class="output_area">
+
+<div class="output_subarea output_text output_error">
+<pre>
+Error in write_POMDP(model, pomdp_filename): object 'Tiger' not found
+Traceback:
+
+1. solve_POMDP(Tiger)
+2. write_POMDP(model, pomdp_filename)</pre>
+</div>
+</div>
+
 </div>
 </div>
 
