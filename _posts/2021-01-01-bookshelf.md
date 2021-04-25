@@ -18,12 +18,12 @@ title: 2021 Bookshelf
 
 - The Long Fix by Vivian Lee
 - The Design of Everyday Things by Don Norman
+- Surely You're Joking, Mr. Feynman! by Richard Feynman
 
 ## Personal Development
 
 - How to Win Friends and Influence People by Dale Carnegie
 - So Good They Can't Ignore You by Cal Newport
-    - Really enjoyed the craftsman mindset idea. "Don't obsess over discovering your true calling. Instead, master rare and valuable skills."
 - Deep Work by Cal Newport
 
 ## Podcasts
