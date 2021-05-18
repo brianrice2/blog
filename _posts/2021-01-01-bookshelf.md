@@ -13,18 +13,21 @@ title: 2021 Bookshelf
 - Designing Data-Intensive Applications by Martin Kleppmann
 - The Elements of Statistical Learning by Jerome Friedman, Robert Tibshirani, and Trevor Hastie
 - Web Scalability for Startup Engineers by Artur Ejsmont
+- A Philosophy of Software Design by John Ousterhout
 
 ## Nonfiction
 
 - The Long Fix by Vivian Lee
 - The Design of Everyday Things by Don Norman
 - Surely You're Joking, Mr. Feynman! by Richard Feynman
+- The Innovators by Walter Isaacson
 
 ## Personal Development
 
 - How to Win Friends and Influence People by Dale Carnegie
 - So Good They Can't Ignore You by Cal Newport
 - Deep Work by Cal Newport
+- Digital Minimalism by Cal Newport
 
 ## Podcasts
 
