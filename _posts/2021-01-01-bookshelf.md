@@ -43,3 +43,4 @@ title: 2021 Bookshelf
 - [Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml)
 - [150 Successful Machine Learning Models: 6 Lessons Learned at Booking.com](https://dl.acm.org/doi/10.1145/3292500.3330744)
 - [Software Engineering for Machine Learning: A Case Study](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/amershi-icse-2019_Software_Engineering_for_Machine_Learning.pdf)
+- [Continuous Delivery for Machine Learning](https://martinfowler.com/articles/cd4ml.html)
