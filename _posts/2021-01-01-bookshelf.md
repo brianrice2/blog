@@ -21,6 +21,7 @@ title: 2021 Bookshelf
 - The Design of Everyday Things by Don Norman
 - Surely You're Joking, Mr. Feynman! by Richard Feynman
 - The Innovators by Walter Isaacson
+- Unix: A History and a Memoir by Brian Kernighan
 
 ## Personal Development
 
