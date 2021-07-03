@@ -22,6 +22,7 @@ title: 2021 Bookshelf
 - Surely You're Joking, Mr. Feynman! by Richard Feynman
 - The Innovators by Walter Isaacson
 - Unix: A History and a Memoir by Brian Kernighan
+- A Mathematician's Apology by G. H. Hardy
 
 ## Personal Development
 
