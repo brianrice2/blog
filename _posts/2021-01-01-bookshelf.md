@@ -37,6 +37,7 @@ title: 2021 Bookshelf
 
 - [When may we be happy?](https://www.econlib.org/when-may-we-be-happy/)
 - [Paul Graham - Essays](http://paulgraham.com/articles.html)
+- [Crony Beliefs](https://meltingasphalt.com/crony-beliefs/)
 
 ## MLOps Community Reading Group
 
