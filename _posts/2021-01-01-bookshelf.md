@@ -10,7 +10,7 @@ title: 2021 Bookshelf
 
 ## Technical
 
-- Designing Data-Intensive Applications by Martin Kleppmann
+- \*\* Designing Data-Intensive Applications by Martin Kleppmann
 - The Elements of Statistical Learning by Jerome Friedman, Robert Tibshirani, and Trevor Hastie
 - Web Scalability for Startup Engineers by Artur Ejsmont
 - A Philosophy of Software Design by John Ousterhout
@@ -27,7 +27,7 @@ title: 2021 Bookshelf
 - Unix: A History and a Memoir by Brian Kernighan
 - A Mathematician's Apology by G. H. Hardy
 - The Design of Everyday Things by Don Norman
-- Almanack of Naval Ravikant by Eric Jorgenson
+- \*\* Almanack of Naval Ravikant by Eric Jorgenson
 
 ## Podcasts
 
@@ -45,3 +45,7 @@ title: 2021 Bookshelf
 - [150 Successful Machine Learning Models: 6 Lessons Learned at Booking.com](https://dl.acm.org/doi/10.1145/3292500.3330744)
 - [Software Engineering for Machine Learning: A Case Study](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/amershi-icse-2019_Software_Engineering_for_Machine_Learning.pdf)
 - [Continuous Delivery for Machine Learning](https://martinfowler.com/articles/cd4ml.html)
+
+&nbsp;
+
+\*\* My favorites
