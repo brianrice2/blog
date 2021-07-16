@@ -27,6 +27,7 @@ title: 2021 Bookshelf
 - Unix: A History and a Memoir by Brian Kernighan
 - A Mathematician's Apology by G. H. Hardy
 - The Design of Everyday Things by Don Norman
+- Kubernetes in Action by Marko Luksa
 - \*\* Almanack of Naval Ravikant by Eric Jorgenson
 
 ## Podcasts
